@@ -1,13 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Create-react-app 官方脚手架
+## 父亲节写的一个小组件，歌曲来自Avicii - The Nights
 
-如果用create-react-app在本地无法创建应用。
+和上次的母亲节的组件差不多，不过这一次要设计歌词和歌曲的同步
 
-就先cloen下这个仓库的官方脚手架吧
+### 在这里给父亲说一声：您辛苦了，爸！
 
-之后用npm install就行啦
-
-### `npm start`
-
-用npm start就可以启动react项目啦
+[项目地址](http://fathersday.xiaoblogs.cn:88)
