@@ -1,0 +1,22 @@
+body{
+    background-color: #cbf5fb;
+}
+.div-align{
+    margin: 280px 0;
+    text-align: center;
+}
+.spanfont{
+    font-size: 50px;
+    color: #2ae0c8;
+    font-weight: 700;
+}
+.spanfont-ps{
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+}
+span{
+    font-weight: 900;
+    font-size: 60px;
+    color: #177cb0;
+}
