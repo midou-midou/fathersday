@@ -6,4 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 在这里给父亲说一声：您辛苦了，爸！
 
+最好用firefox打开，edge也行。chrome的audio加载有问题
+
 [项目地址](http://fathersday.xiaoblogs.cn:88)
