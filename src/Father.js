@@ -41,7 +41,7 @@ class Father extends Component{
         return(
             <Fragment>
                 <ReactAudioPlayer
-                    src="http://imgdata.xiaoblogs.cn:86/TheNights.mp3"
+                    src="assest/TheNights.mp3"
                     autoPlay
                     loop={true}
                 />
