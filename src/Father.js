@@ -17,7 +17,7 @@ class Father extends Component{
     }
 
     componentDidMount(){
-        const me = this;      
+        const me = this;
         function settime(){
                 if(me.state.double_index + 2 === me.state.ms.length - 1){
                     me.setState({
@@ -41,7 +41,7 @@ class Father extends Component{
         return(
             <Fragment>
                 <ReactAudioPlayer
-                    src="assest/TheNights.mp3"
+                    src={`${window.location.origin}/TheNights.mp3`}
                     autoPlay
                     loop={true}
                 />
